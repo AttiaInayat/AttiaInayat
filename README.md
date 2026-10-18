@@ -25,8 +25,8 @@
 I build intelligent software that solves complex spatial and autonomous challenges—from 3D computer vision reconstructions to deterministic multi-agent and voice systems.
 
 - 🎓 **Undergraduate:** Final-year BS in Artificial Intelligence at COMSATS University Islamabad, Lahore Campus (CGPA: 3.66).
-- 🧠 **Current Focus:** Fine-tuning deep neural networks, developing stateful RAG pipelines, and deploying low-latency agentic voice workflows.
-- 💬 **Ask me about:** 3D Computer Vision, Pix2Vox++, LangChain/LangGraph, FastAPI backends, and Voice AI architectures.
+- 🧠 **Current Focus:** Training discrete generative vision models, developing stateful RAG pipelines, and deploying low-latency agentic voice workflows.
+- 💬 **Ask me about:** 3D Computer Vision, VQ-VAE, Web Scraping Pipelines, LangChain/LangGraph, and Voice AI architectures.
 - ⚡ **Fun fact:** I believe AI shouldn't just summarize documents—it should manipulate 3D space and automate real-world phone calls.
 
 ---
@@ -66,8 +66,9 @@ I build intelligent software that solves complex spatial and autonomous challeng
 ### 💻 Featured Projects
 
 #### 🎮 [Blocksmith — 2D to 3D Minecraft Reconstruction (FYP)](https://github.com/AttiaInayat)
-- Deep learning 3D reconstruction system converting sparse 2D screenshots into full 3D Minecraft voxel grids.
-- Built using **PyTorch** and the **Pix2Vox++** framework, converting spatial predictions into native `.schem` files for instant in-game use.
+- Built an automated data scraping pipeline to aggregate raw builds and schematic files directly from Minecraft community repositories.
+- Processed, cleaned, and validated custom voxel datasets to align multi-angle 2D structural renders with native 3D representations.
+- Trained a **VQ-VAE** (Vector Quantized Variational Autoencoder) architecture to reconstruct discrete 3D spatial voxel grids from 2D images and export them directly into playable `.schem` files.
 
 #### 🔍 [Context-Aware Conversational RAG System](https://github.com/AttiaInayat/langchain_course)
 - Retrieval-Augmented Generation platform utilizing recursive chunking and **FAISS** vector search to eliminate hallucinations.
