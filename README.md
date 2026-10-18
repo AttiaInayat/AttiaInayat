@@ -69,11 +69,11 @@ I build intelligent software that solves complex spatial and autonomous challeng
 - Deep learning 3D reconstruction system converting sparse 2D screenshots into full 3D Minecraft voxel grids.
 - Built using **PyTorch** and the **Pix2Vox++** framework, converting spatial predictions into native `.schem` files for instant in-game use.
 
-#### 🔍 [Context-Aware Conversational RAG System](https://github.com/AttiaInayat)
+#### 🔍 [Context-Aware Conversational RAG System](https://github.com/AttiaInayat/langchain_course)
 - Retrieval-Augmented Generation platform utilizing recursive chunking and **FAISS** vector search to eliminate hallucinations.
 - Powered by **LangChain** and served through an asynchronous **FastAPI** backend with a Streamlit interface.
 
-#### 🎙️ [Autonomous Restaurant Voice AI & Order Pipeline](https://github.com/AttiaInayat)
+#### 🎙️ [Autonomous Restaurant Voice AI & Order Pipeline](https://github.com/AttiaInayat/Restaurant-Voice-Agent)
 - Real-time voice agent automating restaurant phone orders, inquiries, and function-calling schemas via **Retell AI** and **Vapi**.
 - Synchronizes order and reservation payloads instantly into **Airtable** via webhook workflows.
 
