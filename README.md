@@ -26,6 +26,7 @@
 I'm a final-year AI student (CGPA 3.66). My final year project turns multi-view images of Minecraft builds into 3D structures. Outside university I've built a RAG chatbot that answers from your documents and a voice agent that takes restaurant orders over the phone, and I've done freelance work for international clients.
 
 I'm currently training Stage 2 of my FYP and looking for an AI engineer role, internship or freelance work, mainly in LLM applications, voice agents or computer vision.
+
 ---
 
 ### Skills
