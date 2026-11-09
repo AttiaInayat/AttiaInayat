@@ -13,9 +13,6 @@
     <a href="https://wa.me/923209176066" target="_blank">
       <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
     </a>
-    <a href="tel:+923209176066">
-      <img src="https://img.shields.io/badge/Call-%2B92_320_9176066-444444?style=for-the-badge" alt="Phone" />
-    </a>
     <a href="./Attia_Inayat_CV.pdf" target="_blank">
       <img src="https://img.shields.io/badge/Download-CV-black?style=for-the-badge&logo=googledocs&logoColor=white" alt="Download CV" />
     </a>
